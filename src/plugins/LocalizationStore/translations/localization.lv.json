@@ -1,0 +1,132 @@
+{
+    "Yes":"Ja",
+    "No":"Nein",
+    "Cancel":"Stornierung",
+    "Loyalty.BackToMainScreen": "Grįžti į pagrindinį ekraną",
+    "Loyalty.BackToMainScreen2": "Eiti į pagrindinį ekraną",
+    "Loyalty.TimerMinutes": "min",
+    "Loyalty.TimerSeconds": "sek",
+    "Loyalty.Activation.Header.Descr": "Kodo aktyvinimas",
+    "Loyalty.Register": "Registracija",
+    "Loyalty.PlaceholderPhoneReg": "Įveskite savo telefono numerį",
+    "Loyalty.LabelPhoneReg": "Telefonas",
+    "Loyalty.LabelPhoneReg2": "Telefono numeris",
+    "Loyalty.Enter": "įėjimas", 
+    "Loyalty.ContinueBtn": "Tęskite",
+    "Loyalty.ForgetTitle": "Pamiršau slaptažodį",
+    "Loyalty.RestorePassword.Title": "Įveskite naują slaptažodį",
+    "Loyalty.Code.Label": "Kodas",
+    "Loyalty.TimerText": "Lieka aktyvuoti: ",
+    "Loyalty.CodeError": "Įvestas neteisingas kodas. Bandykite dar kartą",
+    "Loyalty.Training.Header": "Imkitės mokymų",
+    "Loyalty.Training.Footer": "Praleisti pamoką",
+    "Loyalty.Training.QuestionBtn": "Atsakyti į klausimus",
+    "Loyalty.TrainingComplete.WorkBtn": "Pradėk dirbti",
+    "Loyalty.PatternKeyConfirmBtn": "Patvirtinti",
+    "Loyalty.ChangePassword.Header": "Pakeisti slaptažodį",
+    "Loyalty.ChangePhone.ChangeBtn": "Keisti telefoną",
+    "Sidebar.BalanceQuantity": "taškų",
+    "Sidebar.BalanceLink": "Peržiūrėti balansą",
+    "Sidebar.CatalogCat": "Dovanų",
+    "Sidebar.CatalogGifts": "katalogas",
+    "Sidebar.CatalogLink": "Pasirinkite sau dovaną",
+    "Sidebar.PersData": "Pakeiskite telefoną ar slaptažodį",
+    "Sidebar.Personal": "Profilis ir",
+    "Sidebar.Data": "užsakymai",
+
+
+
+
+
+    "Request.Error":"Beim Anfordern ist ein Fehler aufgetreten. Überprüfen Sie Ihre Internetverbindung oder wenden Sie sich an den technischen Support",
+    "Request.Timeout":"Zeitüberschreitung überschritten. Überprüfen Sie Ihre Internetverbindung oder wenden Sie sich an den technischen Support",
+
+    "Loyalty.ChooseUser.ChooseUserBtn": "Keisti vartotoją",
+    "Loyalty.ChooseUser.ScanBtn": "Nuskaitykite QR kodą",
+    
+    "Loyalty.ActivationCode.Title": "Gavote 6 skaitmenų kodą telefone, kad suaktyvintumėte paskyrą, įveskite jį žemiau esančiame lauke",
+    "Loyalty.ActivationCode.Label": "Aktyvavimo kodas",
+    "Loyalty.ActivationCode.Placeholder": "Įveskite pranešimą iš pranešimo",
+    "Loyalty.ActivationCode.CodeError": "Įvestas neteisingas kodas. Bandykite dar kartą",
+    "Loyalty.ActivationCode.ActivationBtn": "Suaktyvinti",
+    "Loyalty.ActivationCode.RequestCode": "Prašyti kodo dar kartą",
+
+    "Loyalty.ActivationError.Title": "Deja, visi bandymai gauti kodą šiuo metu yra išnaudoti.",
+    "Loyalty.ActivationError.TitleStrong": "Prašome atnaujinti registraciją per 1 valandą.",
+
+    "Loyalty.ActivationError.PlaceholderName": "Zinaida",
+    "Loyalty.ActivationError.LabelName": "Vardas",
+    "Loyalty.ActivationError.OfferTitle": "Registruodamasis sistemoje patvirtinu sutikimą",
+    "Loyalty.ActivationError.OfferLink": "su pasiūlymu",
+    "Loyalty.ActivationError.OfferText": "Registruodamasis sistemoje patvirtinu sutikimą su pasiūlymu",
+
+    "Loyalty.RegisterComplete.Header": "Registracija baigta",
+    "Loyalty.RegisterComplete.TitleStrong": "Registracija buvo sėkminga.",
+    "Loyalty.RegisterComplete.Title": "Tapote Kasos lojalumo programos nariu. Rink taškus ir gauk dovanų už gerą darbą!",
+
+    "Loyalty.UserNotFound.Header": "Vartotojas nerastas",
+    "Loyalty.UserNotFound.TitleStrong": "Vartotojas nerastas.",
+    "Loyalty.UserNotFound.Title": "Nėra vartotojo, turinčio tokius duomenis. Patikrinkite nurodytą telefono numerį arba užsiregistruokite.",
+    "Loyalty.UserNotFound.RepeatEnterBtn": "Pakartokite prisijungimą",
+    "Loyalty.UserNotFound.RegisterBtn": "Registruokis dabar",
+
+    "Loyalty.EnterPhone.Title": "Norėdami įvesti, įveskite savo el. Pašto adresą arba telefono numerį ir šabloną.",
+
+    "Loyalty.RestorePassword.Header": "Slaptažodžio grąžinimas",
+
+    "Loyalty.StartRestorePassword.Title": "Galite atkurti slaptažodį arba atsispausdinti laikiną QR kodą.",
+    "Loyalty.StartRestorePassword.PrintCodeLink": "Atspausdinti laikino priėmimo kvitą?",
+
+    "Loyalty.EndtRestorePassword": "Atkurti slaptažodį",
+    "Loyalty.EndtRestorePassword.Title": "Įveskite savo telefono numerį, patvirtinimo kodą ir naują slaptažodį",
+
+    "Loyalty.PrintACode.Header": "Spausdinti QR kodą",
+    "Loyalty.PrintACode.TitleStrong": "Jums bus išspausdintas laikinas QR kodas.",
+    "Loyalty.PrintACode.Title": "Galėsite dirbti su terminalu, tačiau programos taškai nebus suteikiami.",
+    "Loyalty.PrintACode.PrintBtn": "Spausdinti kodą",
+
+    "Loyalty.Users.Header": "Kasos sąrašas",
+    "Loyalty.Users.NewKassirBtn": "Naujas kasininkas",
+
+    "Loyalty.Training.TitleStrong": "Dalyvaukite POS mokymuose.",
+    "Loyalty.Training.Title": "Norėdami gauti pirmuosius taškus, turite žiūrėti mokomąjį vaizdo įrašą ir atsakyti į klausimyną.",
+    "Loyalty.Training.VideoBtn": "Žiūrėti video įrašą",
+
+    "Loyalty.TrainingStart.TitleStrong": "Peržiūrėjote reklaminį vaizdo įrašą!",
+    "Loyalty.TrainingStart.Title": "Dabar turite atsakyti į klausimyną ir gauti taškus.",
+
+    "Loyalty.TrainingQuestion.TimerText": "Atsakymas yra: ",
+    "Loyalty.TrainingQuestion.Header": "Klausimas №",
+
+    "Loyalty.TrainingComplete.Header": "Baigtas mokymas!",
+    "Loyalty.TrainingComplete.TitleStrong": "Sveikiname, sėkmingai baigėte mokymus!",
+    "Loyalty.TrainingComplete.Title": "Jūs uždirbote pirmuosius taškus ...",
+
+    "Loyalty.TrainingFailed.Header": "Treniruotės nepavyko!",
+    "Loyalty.TrainingFailed.TitleStrong": "Atsiprašome, bet jūs nebuvote apmokyti!",
+    "Loyalty.TrainingFailed.Title": "Teks dar kartą pereiti mokymus ir dar kartą atsakyti į klausimus",
+
+    "Loyalty.PatternKey.Header": "Grafinis raktas",
+    "Loyalty.PatternKey.Title": "Sukurkite prisijungimo modelį",
+
+    "Loyalty.ChangePassword.Title": "Norėdami pakeisti slaptažodį, įveskite naują slaptažodį ir spustelėkite „Keisti slaptažodį“",
+
+    "Loyalty.ConfirmPassword.Header": "Patvirtinkite slaptažodžio keitimą",
+    "Loyalty.ConfirmPassword.Title": "Norėdami patvirtinti slaptažodžio keitimą, įveskite seną slaptažodį ir spustelėkite „Keisti slaptažodį“",
+
+    "Loyalty.ChangePhone.Title": "Įveskite naują telefono numerį, į kurį gausite kodą",
+
+    "Loyalty.ChangePhone.Header": "Patvirtinkite telefono pakeitimą",
+
+    "Loyalty.ChangeSuccess.Title": "Telefono numeris (el. Paštas ir kt.) Pakeistas.",
+
+    "Loyalty.EnterPatternKey.Title": "Norėdami prisijungti, naudokite savo modelį",
+    "Loyalty.EnterPatternKey.EnterBtn": "Įeiti",
+
+    "Loyalty.ChoseUser.Title": "Pasirinktas vartotojas",
+    "Loyalty.ChoseUser.EnterBtn": "Prisijungti",
+
+    "Loyalty.Balance.Title": "Pusiausvyros vaizdas",
+    "Loyalty.Balance.TotalSumTitle": "Итого: ",
+    "Loyalty.Balance.LastOperTitle": "Последние операции"
+}

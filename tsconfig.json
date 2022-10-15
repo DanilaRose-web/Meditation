@@ -1,0 +1,89 @@
+{
+    "compilerOptions": {      //http://www.typescriptlang.org/docs/handbook/compiler-options.html
+      "baseUrl": "./",//Базовый каталог для разрешения не относительных имен модулей.
+      //"outDir": "./dist/",//Перенаправить структуру вывода в каталог.
+      "noImplicitThis": true,//Аналогично, noImplicitAny но выдает ошибку с ключевым словом this 
+      "noImplicitAny": true,   //Выдает ошибку в выражениях и объявлениях с подразумеваемым any типом.
+      "noImplicitReturns":true,//выдает ошибку когда не все ветви кода возвращают результат
+      "module": "commonjs",// модуль генерации кода: "None", "CommonJS", "AMD", "System", "UMD", "ES6", "ES2015"или "ESNext"
+      "target": "es5",    //целевая версию ECMAScript  
+      "moduleResolution": "node",//тип импорта модулей (логика работы import from и required) http://www.typescriptlang.org/docs/handbook/module-resolution.html
+      //"esModuleInterop": true,
+      "lib": [//Список файлов библиотеки для включения в компиляцию.
+        "es2017", "dom"
+    ],
+      "allowJs": true,//Разрешить компиляцию файлов JavaScript
+      "checkJs": true,//Сообщить об ошибках в .jsфайлах. Используйте в сочетании с --allowJs
+      "diagnostics": true,//Показать диагностическую информацию.
+      "esModuleInterop": true, //без этого почему-то выдает ошибку
+      "sourceMap": true,      //Создает соответствующий .mapфайл
+      "strict": true,//Включите все параметры строгой проверки типов. Включение --strictпозволяет --noImplicitAny, --noImplicitThis, --alwaysStrict, --strictBindCallApply, --strictNullChecks, --strictFunctionTypesи --strictPropertyInitialization
+      "strictFunctionTypes": false,//Отключить проверку бивариантных параметров для типов функций
+      "strictNullChecks": false,
+      "resolveJsonModule": true,  //Включите модули, импортированные с .jsonрасширением.    
+   // "emitDecoratorMetadata": true,
+    //"experimentalDecorators": true,//Включает экспериментальную поддержку для ES-декораторов.
+    "allowSyntheticDefaultImports": true,//Разрешить импорт по умолчанию из модулей без экспорта по умолчанию.
+      "paths": {//Список записей сопоставления путей для имен модулей в расположениях относительно baseUrl
+        "@pages/*": [ "./src/components/pages/*" ],
+        "@layouts/*": [ "./src/components/layouts/*" ],
+        "@partials/*": [ "./src/components/partials/*" ],
+        "@controls/*": [ "./src/components/controls/*" ],
+        "@components/*": [ "./src/components/*" ],
+        //"@assets/*": [ "./src/assets/*" ],
+        // "@/*": [
+        //   "src/*"
+        // ]
+      }
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/*.ts",
+      "src/**/*.tsx",
+      "src/**/*.vue"
+    ],
+    "files": [
+      "src/register-components.ts"
+    ],
+    "exclude": [
+      "node_modules",
+      "build"
+    ]
+  }
+  //"jsx": "react",
+// {
+//     "compilerOptions": {
+//       "allowSyntheticDefaultImports": true,
+//       "baseUrl": "./",
+//       "emitDecoratorMetadata": true,
+//       "experimentalDecorators": true,
+//       "lib": [
+//         "es2017",
+//         "dom"
+//       ],
+//       "module": "CommonJS",
+//       "moduleResolution": "node",
+//       "target": "es5",
+//       "sourceMap": true,
+//       "skipDefaultLibCheck": true,
+//       "strict": true,
+//       "strictFunctionTypes": false,
+//       "strictNullChecks": false,
+//       "paths": {
+//         "@pages/*": [ "./scripts/views/pages/*" ],
+//         "@components/*": [ "./scripts/views/components/*" ],
+//         "@layouts/*": [ "./scripts/views/layouts/*" ],
+//         "@dataSource/*": [ "./scripts/dataSource/*" ],
+//         "@plugins/*": [ "./scripts/main/plugins/*" ],
+//         "@views/*": [ "./scripts/views/*" ],
+//         "@a-model/*": [ "./scripts/views/a-model/*" ],
+//         "@framework/*": [ "./scripts/framework/*" ]
+//       }
+//     },
+//     "include": [
+//       "./src/**/*"
+//     ],
+//     "exclude": [
+//       "bin"
+//     ]
+//   }

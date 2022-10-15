@@ -1,0 +1,133 @@
+{
+    "Yes":"Yes",
+    "No":"No",
+    "Cancel":"Cancel",
+    "Loyalty.BackToMainScreen": "Return to home screen",
+    "Loyalty.BackToMainScreen2": "Go to home screen",
+    "Loyalty.TimerMinutes": "min",
+    "Loyalty.TimerSeconds": "sec",
+    "Loyalty.Activation.Header.Descr": "Code activation",
+    "Loyalty.Register": "Registration",
+    "Loyalty.PlaceholderPhoneReg": "Enter your phone number",
+    "Loyalty.LabelPhoneReg": "Phone",
+    "Loyalty.LabelPhoneReg2": "Phone number",
+    "Loyalty.Enter": "Enter", 
+    "Loyalty.ContinueBtn": "Proceed",
+    "Loyalty.ForgetTitle": "I forgot my password",
+    "Loyalty.RestorePassword.Title": "Enter new password",
+    "Loyalty.Code.Label": "Code",
+    "Loyalty.TimerText": "Remaining for activation: ",
+    "Loyalty.CodeError": "Wrong code entered, please try again",
+    "Loyalty.Training.Header": "Take training",
+    "Loyalty.Training.Footer": "Skip tutorial",
+    "Loyalty.Training.QuestionBtn": "Answer the questions",
+    "Loyalty.TrainingComplete.WorkBtn": "Get to work",
+    "Loyalty.PatternKeyConfirmBtn": "Confirm",
+    "Loyalty.ChangePassword.Header": "Change password",
+    "Loyalty.ChangePhone.ChangeBtn": "Change phone",
+    "Sidebar.BalanceQuantity": "points",
+    "Sidebar.BalanceLink": "View balance",
+    "Sidebar.CatalogCat": "Gift",
+    "Sidebar.CatalogGifts": "catalog",
+    "Sidebar.CatalogLink": "Choose a gift for yourself",
+    "Sidebar.PersData": "Change phone or password",
+    "Sidebar.Personal": "Profile and",
+    "Sidebar.Data": "orders",
+
+
+
+
+
+    "Request.Error":"An error occurred while requesting. Check your internet connection or contact technical support",
+    "Request.Timeout":"Timeout exceeded. Check your internet connection or contact technical support",
+
+    "Loyalty.ChooseUser.ChooseUserBtn": "Change user",
+    "Loyalty.ChooseUser.ScanBtn": "Scan QR code",
+    
+    "Loyalty.ActivationCode.Title": "You received a 6-digit code on your phone to activate your account, enter it in the field below",
+    "Loyalty.ActivationCode.Label": "Activation code",
+    "Loyalty.ActivationCode.Placeholder": "Enter the code from the message",
+    "Loyalty.ActivationCode.CodeError": "Wrong code entered, please try again",
+    "Loyalty.ActivationCode.ActivationBtn": "Activate",
+    "Loyalty.ActivationCode.RequestCode": "Request code again",
+
+    "Loyalty.ActivationError.Title": "Unfortunately, all attempts to obtain the code have been exhausted at the moment.",
+    "Loyalty.ActivationError.TitleStrong": "Please renew your registration in 1 hour.",
+
+    "Loyalty.ActivationError.PlaceholderName": "John",
+    "Loyalty.ActivationError.LabelName": "Name",
+    "Loyalty.ActivationError.OfferTitle": "By registering in the system, I confirm my consent",
+    "Loyalty.ActivationError.OfferLink": "with the offer",
+    "Loyalty.ActivationError.OfferText": "By registering in the system, I confirm my agreement with the offer",
+
+    "Loyalty.RegisterComplete.Header": "Registration completed",
+    "Loyalty.RegisterComplete.TitleStrong": "Registration was successful.",
+    "Loyalty.RegisterComplete.Title": "You have become a member of the Cashier Loyalty program. Collect points and get gifts for good work!",
+
+    "Loyalty.UserNotFound.Header": "User is not found",
+    "Loyalty.UserNotFound.TitleStrong": "User is not found.",
+    "Loyalty.UserNotFound.Title": "There is no user with such data. Check the specified phone number or register.",
+    "Loyalty.UserNotFound.RepeatEnterBtn": "Repeat login",
+    "Loyalty.UserNotFound.RegisterBtn": "Register now",
+
+    "Loyalty.EnterPhone.Title": "To enter, enter your Email or phone number, as well as your pattern.",
+
+    "Loyalty.RestorePassword.Header": "Password recovery",
+
+    "Loyalty.StartRestorePassword.Title": "You can recover your password or print a temporary QR code.",
+    "Loyalty.StartRestorePassword.PrintCodeLink": "Print a temporary admission receipt?",
+
+    "Loyalty.EndtRestorePassword": "Restore password",
+    "Loyalty.EndtRestorePassword.Title": "Enter your phone number, verification code and new password",
+
+    "Loyalty.PrintACode.Header": "Print QR Code",
+    "Loyalty.PrintACode.TitleStrong": "A temporary QR code will be printed to you.",
+    "Loyalty.PrintACode.Title": "You will be able to work with the terminal, but points in the program will not be awarded.",
+    "Loyalty.PrintACode.PrintBtn": "Print code",
+
+    "Loyalty.Users.Header": "Cashier list",
+    "Loyalty.Users.NewKassirBtn": "New cashier",
+
+    "Loyalty.Training.TitleStrong": "Take a POS training.",
+    "Loyalty.Training.Title": "To earn your first points, you must watch the instructional video and answer the questionnaire.",
+    "Loyalty.Training.VideoBtn": "Watch the video",
+
+    "Loyalty.TrainingStart.TitleStrong": "You've watched the promotional video!",
+    "Loyalty.TrainingStart.Title": "Now you need to answer the questionnaire and get points.",
+
+    "Loyalty.TrainingQuestion.TimerText": "The answer is: ",
+    "Loyalty.TrainingQuestion.Header": "Question №",
+
+    "Loyalty.TrainingComplete.Header": "Completed training!",
+    "Loyalty.TrainingComplete.TitleStrong": "Congratulations, you have successfully completed the training!",
+    "Loyalty.TrainingComplete.Title": "You have earned your first points ...",
+
+    "Loyalty.TrainingFailed.Header": "Training failed!",
+    "Loyalty.TrainingFailed.TitleStrong": "We are sorry, but you were not trained!",
+    "Loyalty.TrainingFailed.Title": "You will have to go through the training again and answer the questions again",
+
+    "Loyalty.PatternKey.Header": "Graphic key",
+    "Loyalty.PatternKey.Title": "Create a pattern for login",
+
+    "Loyalty.ChangePassword.Title": "To change your password, enter a new password and click 'Change password'",
+
+    "Loyalty.ConfirmPassword.Header": "Confirm password change",
+    "Loyalty.ConfirmPassword.Title": "To confirm the password change, enter the old password and click 'Change password'",
+
+    "Loyalty.ChangePhone.Title": "Enter a new phone number to which you will receive a code",
+
+    "Loyalty.ChangePhone.Header": "Confirm phone change",
+
+    "Loyalty.ChangeSuccess.Title": "The phone number (email, etc.) has been changed.",
+
+    "Loyalty.EnterPatternKey.Title": "Use your pattern key to login",
+    "Loyalty.EnterPatternKey.EnterBtn": "Enter",
+
+    "Loyalty.ChoseUser.Title": "User selected",
+    "Loyalty.ChoseUser.EnterBtn": "Sign in",
+
+    "Loyalty.Balance.Title": "Balance view",
+    "Loyalty.Balance.TotalSumTitle": "Итого: ",
+    "Loyalty.Balance.LastOperTitle": "Последние операции"
+}
+

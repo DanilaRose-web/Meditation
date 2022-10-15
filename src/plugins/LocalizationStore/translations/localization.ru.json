@@ -1,0 +1,133 @@
+{
+    "Yes":"Да",
+    "No":"Нет",
+    "Cancel":"Отмена",
+    "Loyalty.BackToMainScreen": "Вернуться на главный экран",
+    "Loyalty.BackToMainScreen2": "Переход на главный экран",
+    "Loyalty.TimerMinutes": "мин",
+    "Loyalty.TimerSeconds": "сек",
+    "Loyalty.Activation.Header.Descr": "Активация кода",
+    "Loyalty.Register": "Регистрация",
+    "Loyalty.PlaceholderPhoneReg": "Укажите номер телефона",
+    "Loyalty.LabelPhoneReg": "Телефон",
+    "Loyalty.LabelPhoneReg2": "Номер телефона",
+    "Loyalty.Enter": "Вход", 
+    "Loyalty.ContinueBtn": "Продолжить",
+    "Loyalty.ForgetTitle": "Я не помню свой пароль",
+    "Loyalty.RestorePassword.Title": "Укажите новый пароль",
+    "Loyalty.Code.Label": "Код",
+    "Loyalty.TimerText": "На активацию осталось: ",
+    "Loyalty.CodeError": "Введен неверный код, попробуйте снова",
+    "Loyalty.Training.Header": "Пройдите обучение",
+    "Loyalty.Training.Footer": "Пропустить обучение",
+    "Loyalty.Training.QuestionBtn": "Ответить на вопросы",
+    "Loyalty.TrainingComplete.WorkBtn": "Приступить к работе",
+    "Loyalty.PatternKeyConfirmBtn": "Подтвердить",
+    "Loyalty.ChangePassword.Header": "Сменить пароль",
+    "Loyalty.ChangePhone.ChangeBtn": "Сменить телефон",
+    "Sidebar.BalanceQuantity": "баллов",
+    "Sidebar.BalanceLink": "Посмотреть баланс",
+    "Sidebar.CatalogCat": "Каталог",
+    "Sidebar.CatalogGifts": "Подарков",
+    "Sidebar.CatalogLink": "Выбрать себе подарок",
+    "Sidebar.PersData": "Изменить телефон или пароль",
+    "Sidebar.Personal": "Профиль и",
+    "Sidebar.Data": "заказы",
+
+
+
+
+
+    
+    "Request.Error":"Произошла ошибка при запросе. Проверьте подключение к интернету или обратитесь в техподдержку",
+    "Request.Timeout":"Превышено время ожидания. Проверьте подключение к интернету или обратитесь в техподдержку",
+
+    "Loyalty.ChooseUser.ChooseUserBtn": "Сменить пользователя",
+    "Loyalty.ChooseUser.ScanBtn": "Сканировать QR код",
+    
+    "Loyalty.ActivationCode.Title": "Вам на телефон пришёл 6-значный код для активации вашего аккаунта, введите его в поле ниже",
+    "Loyalty.ActivationCode.Label": "Код активации",
+    "Loyalty.ActivationCode.Placeholder": "Введите код из сообщения",
+    "Loyalty.ActivationCode.CodeError": "Введен неверный код, попробуйте еще раз",
+    "Loyalty.ActivationCode.ActivationBtn": "Активировать",
+    "Loyalty.ActivationCode.RequestCode": "Запросить код заново",
+
+    "Loyalty.ActivationError.Title": "К сожалению, в настоящий момент были исчерпаны все попытки получения кода.",
+    "Loyalty.ActivationError.TitleStrong": "Возобновите регистрацию через 1 час.",
+
+    "Loyalty.ActivationError.PlaceholderName": "Зинаида",
+    "Loyalty.ActivationError.LabelName": "Имя",
+    "Loyalty.ActivationError.OfferTitle": "Регистрируясь в системе, я подверждаю своё согласие",
+    "Loyalty.ActivationError.OfferLink": "с офертой",
+    "Loyalty.ActivationError.OfferText": "Регистрируясь в системе, я подверждаю своё согласие с офертой",
+
+    "Loyalty.RegisterComplete.Header": "Регистрация завершена",
+    "Loyalty.RegisterComplete.TitleStrong": "Регистрация пройдена успешно.",
+    "Loyalty.RegisterComplete.Title": "Вы стали участником программы «Лояльность кассиров». Копите баллы и получайте подарки за хорошую работу!",
+
+    "Loyalty.UserNotFound.Header": "Пользователь не найден",
+    "Loyalty.UserNotFound.TitleStrong": "Пользователь не найден.",
+    "Loyalty.UserNotFound.Title": "Пользователя с такими данными не существует. Проверьте указанный номер телефона или пройдите регистрацию.",
+    "Loyalty.UserNotFound.RepeatEnterBtn": "Повторить вход",
+    "Loyalty.UserNotFound.RegisterBtn": "Зарегистрироваться",
+
+    "Loyalty.EnterPhone.Title": "Для входа укажите Email или номер телефона, а так же ваш графический ключ.",
+
+    "Loyalty.RestorePassword.Header": "Восстановление пароля",
+
+    "Loyalty.StartRestorePassword.Title": "Вы можете восстановить свой пароль или распечатать временный QR-код.",
+    "Loyalty.StartRestorePassword.PrintCodeLink": "Распечатать чек на временный вход?",
+
+    "Loyalty.EndtRestorePassword": "Восстановить пароль",
+    "Loyalty.EndtRestorePassword.Title": "Укажите номер телефона, код подтверждения и новый пароль",
+
+    "Loyalty.PrintACode.Header": "Распечатать QR-код",
+    "Loyalty.PrintACode.TitleStrong": "Вам будет распечатан временный QR-код.",
+    "Loyalty.PrintACode.Title": "Вы сможете работать с терминалом, но баллы в программе начисляться не будут.",
+    "Loyalty.PrintACode.PrintBtn": "Распечатать код",
+
+    "Loyalty.Users.Header": "Список кассиров",
+    "Loyalty.Users.NewKassirBtn": "Новый кассир",
+
+    "Loyalty.Training.TitleStrong": "Пройдите обучение по использованию POS.",
+    "Loyalty.Training.Title": "Чтобы заработать свои первые баллы, вы должны посмотреть обучающее видео и ответить на вопросы анкеты.",
+    "Loyalty.Training.VideoBtn": "Посмотреть видео",
+
+    "Loyalty.TrainingStart.TitleStrong": "Вы посмотрели обущающий ролик!",
+    "Loyalty.TrainingStart.Title": "Теперь вам необходимо ответить на вопросы анкеты и получить баллы.",
+
+    "Loyalty.TrainingQuestion.TimerText": "На ответ осталось: ",
+    "Loyalty.TrainingQuestion.Header": "Вопрос №",
+
+    "Loyalty.TrainingComplete.Header": "Обучение пройдено!",
+    "Loyalty.TrainingComplete.TitleStrong": "Поздравляем, вы успешно прошли обучение!",
+    "Loyalty.TrainingComplete.Title": "Вы заработали свои первые баллы...",
+
+    "Loyalty.TrainingFailed.Header": "Обучение не пройдено!",
+    "Loyalty.TrainingFailed.TitleStrong": "Сожалеем, но вы не прошли обучение!",
+    "Loyalty.TrainingFailed.Title": "Вам придётся вновь пройти обучение и заново ответить на вопросы",
+
+    "Loyalty.PatternKey.Header": "Графический ключ",
+    "Loyalty.PatternKey.Title": "Придумайте графический ключ для входа",
+
+    "Loyalty.ChangePassword.Title": "Для смены пароля укажите новый пароль и нажмите 'Сменить пароль'",
+
+    "Loyalty.ConfirmPassword.Header": "Подтвердить смену пароля",
+    "Loyalty.ConfirmPassword.Title": "Для подтверждения смены пароля укажите старый пароль и нажмите 'Сменить пароль'",
+
+    "Loyalty.ChangePhone.Title": "Укажите новый номер телефона, на который Вам будет выслан код",
+
+    "Loyalty.ChangePhone.Header": "Подтвердить смену телефона",
+
+    "Loyalty.ChangeSuccess.Title": "Номер телефона (email и т.д.) изменён.",
+
+    "Loyalty.EnterPatternKey.Title": "Используйте ваш графический ключ для входа",
+    "Loyalty.EnterPatternKey.EnterBtn": "Войти",
+
+    "Loyalty.ChoseUser.Title": "Выбран пользователь",
+    "Loyalty.ChoseUser.EnterBtn": "Войти в систему",
+
+    "Loyalty.Balance.Title": "Просмотр баланса",
+    "Loyalty.Balance.TotalSumTitle": "Итого: ",
+    "Loyalty.Balance.LastOperTitle": "Последние операции"
+}

@@ -1,0 +1,25 @@
+@import 'fonts.css';
+
+html {
+    scrollbar-width: none; /* Firefox */
+}
+
+body {
+    font-family: 'Proxima Nova', sans-serif;
+    position: relative;
+    box-sizing: border-box;
+}
+
+a:hover, a:focus, a:active, a {
+    text-decoration: none;
+    outline: none;
+}
+
+input:hover, input:focus, input:active, input, button:hover, button:focus, button:active, button {
+    border: none;
+    outline: none;
+}
+
+
+
+/* select */
